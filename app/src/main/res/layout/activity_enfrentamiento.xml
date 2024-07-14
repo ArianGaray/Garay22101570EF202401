@@ -14,4 +14,20 @@
         android:text="Listado de Enfrentamientos"
         tools:layout_editor_absoluteX="119dp"
         tools:layout_editor_absoluteY="66dp" />
+
+    <Button
+        android:id="@+id/btnRegisEquip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Registrar Equipos"
+        tools:layout_editor_absoluteX="125dp"
+        tools:layout_editor_absoluteY="580dp" />
+
+    <Button
+        android:id="@+id/btnRegisEnfren"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Registrar Enfrentamientos"
+        tools:layout_editor_absoluteX="97dp"
+        tools:layout_editor_absoluteY="642dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
